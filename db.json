@@ -1,9 +1,7 @@
 {
   "data": {
-    "profile": {
-    "name": "typicode"
-    },
-    "posts": [
+    "status": "0",
+    "response": [
        "dog",
        "dsdg",
        "sdsd"
