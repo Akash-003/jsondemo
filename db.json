@@ -1,4 +1,4 @@
 {
-  "status" = "0",
-  "response" = ["dog", "fof", "sda", "asdsad"]
+  "status" : "0",
+  "response" : ["dog", "fof", "sda", "asdsad"]
 }
